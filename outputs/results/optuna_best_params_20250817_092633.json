@@ -1,0 +1,13 @@
+{
+  "n_conv_blocks": 3,
+  "base_filters": 32,
+  "kernel_size": 5,
+  "dropout_rate": 0.3425192044349384,
+  "l2_regularization": 4.066563313514796e-05,
+  "use_batch_norm": false,
+  "use_attention": false,
+  "n_dense_units": 512,
+  "optimizer": "Adam",
+  "learning_rate": 0.0005412009190750479,
+  "use_augmentation": true
+}

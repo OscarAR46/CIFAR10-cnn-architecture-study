@@ -1,0 +1,9 @@
+{
+  "timestamp": "20250817_092633",
+  "best_architecture": "baseline",
+  "best_test_accuracy": 0.7049999833106995,
+  "ensemble_accuracy_soft": 0.8604,
+  "ensemble_accuracy_hard": 0.8546,
+  "pca_accuracy": 0.5358999967575073,
+  "optuna_best_accuracy": 0.8172000050544739
+}
