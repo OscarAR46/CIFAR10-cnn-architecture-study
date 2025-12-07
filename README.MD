@@ -74,7 +74,7 @@ cifar10-cnn-architecture-study/
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/cifar10-cnn-architecture-study.git
+git clone https://github.com/OscarAR46/cifar10-cnn-architecture-study.git
 cd cifar10-cnn-architecture-study
 pip install -r requirements.txt
 ```
